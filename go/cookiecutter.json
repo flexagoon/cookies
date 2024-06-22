@@ -1,0 +1,6 @@
+{
+  "project_name": "Go project",
+  "project_slug": "{{ cookiecutter.project_name | slugify }}",
+  "author": "flexagoon",
+  "scope": "fxgn.dev"
+}

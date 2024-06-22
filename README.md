@@ -12,3 +12,7 @@ formatting and type checking for all languages to write high-quality code.
   A python application with [poetry](https://python-poetry.org/) for package
   management, [ruff](https://astral.sh/ruff) for linting and
   [mypy](https://mypy.readthedocs.io/) for type checking.
+
+- [go](https://github.com/flexagoon/cookies/tree/main/go)
+
+  A generic go project with [staticcheck](https://staticcheck.io/) for linting.
