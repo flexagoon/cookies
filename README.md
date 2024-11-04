@@ -1,6 +1,8 @@
 # 🍪 Cookies
 
-A collection of personal project templates for [cookiecutter](https://github.com/cookiecutter/cookiecutter).
+A collection of personal project templates.
+
+The templates can be used with [this fish script](https://github.com/flexagoon/dotfiles/blob/main/dot_config/fish/functions/new.fish).
 
 The goal of those templates is to enforce the strictest possible linting,
 formatting and type checking for all languages to write high-quality code.
